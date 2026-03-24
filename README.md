@@ -4,9 +4,6 @@
 
 [![Latest Release](https://img.shields.io/github/v/release/Nochala/Proper-Steering-Fix?include_prereleases&label=Latest%20Release)](https://github.com/Nochal/Proper-Steering-Fix/releases/latest)
 ![Language](https://img.shields.io/badge/LANGUAGE-C%23-239120?logo=csharp&logoColor=white)
-![Type](https://img.shields.io/badge/TYPE-.ASI%20Plugin-8A2BE2)
-![Support](https://img.shields.io/badge/SUPPORT-Legacy%20%7C%20Enhanced-0A84FF)
-![Status](https://img.shields.io/badge/STATUS-Release%20Ready-2EA043)
 
 ### [ Note on Future Updates ]
 _**Development on this mod is largely complete, so future updates are unlikely unless a significant issue comes up.**_
