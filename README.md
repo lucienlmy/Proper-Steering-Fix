@@ -7,6 +7,9 @@
 ![Type](https://img.shields.io/badge/TYPE-.ASI%20Plugin-8A2BE2)
 ![Support](https://img.shields.io/badge/SUPPORT-Legacy%20%7C%20Enhanced-0A84FF)
 ![Status](https://img.shields.io/badge/STATUS-Release%20Ready-2EA043)
+
+### [ Note on Future Updates ]
+_**Development on this mod is largely complete, so future updates are unlikely unless a significant issue comes up.**_
 ---
 
 ## Features
