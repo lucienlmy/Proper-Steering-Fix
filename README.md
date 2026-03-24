@@ -35,6 +35,9 @@
 
 ## Changelog
 
+### v1.1.1
+-Updated License
+
 ### v1.1.0
 - Reworked the entire Enhanced patch
 - Updated Enhanced AOB patterns for improved compatibility with newer game versions
