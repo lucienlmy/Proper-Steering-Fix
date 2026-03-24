@@ -3,59 +3,70 @@ Proper Steering Fix License
 Copyright (c) 2026 Nochala
 All rights reserved.
 
-1. Grant of Use
+Nochala Attribution-NonCommercial Mod License 1.0
 
-Permission is granted to:
+This software and its source code are provided under the terms below.
 
-Download, use, and compile Proper Steering Fix (SteeringFix) for personal, non-commercial purposes.
+1. Permission Granted
 
-View, study, and modify the source code for private use.
+You may, free of charge:
 
-2. Restrictions
+- Use this software for personal, non-commercial purposes.
+- View, study, modify, and compile the source code.
+- Share and redistribute the original software.
+- Create and share modified versions or derivative works.
 
-You may NOT:
+2. Attribution Required
 
-Monetize this software in any form, including but not limited to:
+Any public release, repost, fork, redistribution, or derivative work of this software, whether modified or unmodified, must provide clear and visible credit to the original author:
 
-Paid downloads
+Original author: Nochala
+Original project: Proper Steering Fix
 
-Early-access paywalls
+At minimum, any redistribution or derivative work must:
 
-Patreon-locked builds
+- Retain this copyright notice and license text.
+- State that the original project was created by Nochala.
+- Clearly indicate whether the redistributed version has been modified.
+- Not claim that the original software, or any substantial portion of it, was created solely by anyone other than Nochala.
 
-Ad-revenue redistribution
+3. Non-Commercial Restriction
 
-Claim this software, or any portion of it, as your own work.
+You may NOT sell, monetize, paywall, or otherwise distribute this software or any derivative work for money or commercial gain.
 
-Publicly redistribute this software (modified or unmodified) without prior written permission.
+This prohibition includes, but is not limited to:
 
-Include this software in public mod packs without prior written permission.
+- Paid downloads
+- Patreon-locked or subscriber-only builds
+- Early-access builds tied to payment
+- Bundling this software into a paid mod pack or paid package
+- Selling modified or unmodified versions
+- Reuploading or redistributing this software on monetized platforms where access to the mod itself is sold or restricted by payment
 
-Publish derivative works without explicit written authorization from the author.
+4. Redistribution Conditions
 
-3. Attribution
+Redistribution of this software, whether modified or unmodified, is permitted only if all of the following are true:
 
-This project must always retain visible credit to the original author:
+- The redistribution is completely free of charge.
+- Proper credit is given to Nochala as the original author.
+- A copy of this license is included.
+- Any modifications are clearly disclosed.
 
-Author: Nochala
+5. No False Representation
 
-Removal or alteration of authorship notices is strictly prohibited.
+You may not remove, alter, or obscure authorship notices in a way that misrepresents ownership or origin.
+You may not claim this software, or any substantial portion of it, as your own original work.
 
-4. No Warranty
+6. No Warranty
 
-This software is provided "as is", without warranty of any kind.
-The author is not responsible for damages, incompatibilities, or issues resulting from use.
-
-5. Permission Requests
-
-Any public redistribution, derivative publication, or commercial inquiry requires written permission from:
-
-Nochala
+This software is provided "as is", without warranty of any kind, express or implied.
+The author is not liable for any claim, damages, or other liability arising from or related to the software or its use.
 
 Plain English Summary
 
-You can use it.
-You can view the source.
-You cannot make money from it.
-You cannot claim it.
-You cannot redistribute or publish modified versions without written permission.
+- You can use the mod.
+- You can edit the code.
+- You can share the original or your edited version.
+- You must give clear credit to Nochala.
+- You must keep it free.
+- You cannot sell it, paywall it, or redistribute it for money.
